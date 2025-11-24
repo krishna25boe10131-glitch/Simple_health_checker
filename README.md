@@ -12,7 +12,7 @@ Standard Library: "Utilizes dictionaries for the knowledge base, sets for effici
 Console/Terminal: The primary User Interface (UI) for both input and output.
 
 INSTALLATION AND SETUP:
-Since this project consists of a single function, installation involves cloning the repository and importing the function into your Python environment. Clone the Repository: Open your terminal or command prompt and run: git clone https://github.com/krishna25boe1013/Simple_health_checker.git cd Simple_health_checker
+Since this project consists of a single function, installation involves cloning the repository and importing the function into your Python environment. Clone the Repository: Open your terminal or command prompt and run: git clone https://github.com/krishna25boe10131-glitch/Simple_health_checker.git cd Simple_health_checker
 
 # Instructions for testing
 To test the application, you can use specific combinations of symptoms to verify that the scoring and output logic correctly identify the intended conditions.
