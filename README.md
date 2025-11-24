@@ -21,4 +21,6 @@ Flu Testfever: body aches, fatigue, headache: Influenza (Flu)
 Allergy Test: sneezing, itchy eyes, runny nose: Allergies
 Weak Match Test: mild headache, vomiting: Migraine or Gastroenteritis 
 No Match Test: broken bone, dizziness: "Symptoms do not strongly match."
+
 # Screenshots 
+<img width="784" height="149" alt="image" src="https://github.com/user-attachments/assets/e8234676-2e42-4371-a236-27dc02c6a3ae" />
